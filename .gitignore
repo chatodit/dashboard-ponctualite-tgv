@@ -1,0 +1,19 @@
+# Fichiers temporaires Power BI et Office
+*.pbix.bak
+~$*
+*.tmp
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Consignes et fichiers IA
+AGENT.md
+CLAUDE.md
+.claude/
+.gemini/
